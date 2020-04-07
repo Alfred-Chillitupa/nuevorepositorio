@@ -13,8 +13,8 @@ int main()
     b=x-y;
     c=x*y;
     cout << "Muy bien!!" << endl;
-    cout << "La suma es: " << a << endl;
-    cout << "La resta es: " << b << endl;
-    cout << "La multiplicacion es: " << c << endl;
+    cout << "La suma de los numeros es: " << a << endl;
+    cout << "La resta de los numeros es: " << b << endl;
+    cout << "La multiplicacion los numeros es: " << c << endl;
     return 0;
 }
