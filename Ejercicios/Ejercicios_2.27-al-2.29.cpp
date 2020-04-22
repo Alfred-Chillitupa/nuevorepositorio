@@ -34,15 +34,15 @@ int main(){
 
     int longitud{0};
     cout << "Face lenght\tSurface area\tVolume \nof cube (cm) \tof cube (cm^2) \tof cube (cm^3) \n";
-    cout << longitud << "\t\t" << longitud * longitud << "\t\t" << longitud * longitud * longitud << endl;
+    cout << longitud << "\t\t" << 6 * longitud * longitud << "\t\t" << longitud * longitud * longitud << endl;
     longitud = 1;
-    cout << longitud << "\t\t" << longitud * longitud << "\t\t" << longitud * longitud * longitud << endl;
+    cout << longitud << "\t\t" << 6 * longitud * longitud << "\t\t" << longitud * longitud * longitud << endl;
     longitud = 2;
-    cout << longitud << "\t\t" << longitud * longitud << "\t\t" << longitud * longitud * longitud << endl;
+    cout << longitud << "\t\t" << 6 * longitud * longitud << "\t\t" << longitud * longitud * longitud << endl;
     longitud = 3;
-    cout << longitud << "\t\t" << longitud * longitud << "\t\t" << longitud * longitud * longitud << endl;
+    cout << longitud << "\t\t" << 6 * longitud * longitud << "\t\t" << longitud * longitud * longitud << endl;
     longitud = 4;
-    cout << longitud << "\t\t" << longitud * longitud << "\t\t" << longitud * longitud * longitud << endl;
+    cout << longitud << "\t\t" << 6 * longitud * longitud << "\t\t" << longitud * longitud * longitud << endl;
 
     return 0;
 }
