@@ -75,6 +75,6 @@ int main(){
             cout << "El mayor es: " << numero3 << endl;
         }
     }
-    //continuemos en el Ejercicios2.cpp para ver los ejercicios 2.27 al 2.29
+    //continuemos en el Ejercicios_2.27-al-2.29.cpp para ver los ejercicios 2.27 al 2.29
     return 0;
 }
