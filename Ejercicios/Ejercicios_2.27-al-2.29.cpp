@@ -44,5 +44,6 @@ int main(){
     longitud = 4;
     cout << longitud << "\t\t" << 6 * longitud * longitud << "\t\t" << longitud * longitud * longitud << endl;
 
+
     return 0;
 }
